@@ -7,4 +7,4 @@ team members:
 3.Rugved R
 
 
-link to Published Paper:https://www.journals.resaim.com/ijresm/article/view/841
+Link to Published Paper:https://www.journals.resaim.com/ijresm/article/view/841
