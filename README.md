@@ -5,3 +5,6 @@ team members:
 1.Ryan Julius
 2.Vivek Mittal
 3.Rugved R
+
+
+link to Published Paper:https://www.journals.resaim.com/ijresm/article/view/841
